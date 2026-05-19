@@ -77,7 +77,7 @@ Développeur passionné le jour, explorateur de mondes virtuels la nuit. Je cons
 
 <div align="center">
 
-[![snake animation](https://raw.githubusercontent.com/WindAflame/WindAflame/output/snake.svg)](https://github.com/WindAflame)
+[![snake animation](https://raw.githubusercontent.com/WindAflame/.github/output/snake.svg)](https://github.com/WindAflame)
 
 *Dev by day · Gamer by night · © Endy WindAflame*
 
