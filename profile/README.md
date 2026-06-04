@@ -57,7 +57,7 @@ Développeur passionné le jour, explorateur de mondes virtuels la nuit. Je cons
 ## 📊 Stats GitHub
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://raw.githubusercontent.com/WindAflame/.github/output/streak.svg" alt="GitHub Streak" /></a>
 </div>
 
 ---
