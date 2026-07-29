@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, je suis Endy WindAflame 👋
+# Hi, I'm Endy WindAflame 👋
 
 ### `> I code by day — I explore virtual worlds by night`
 
@@ -14,15 +14,16 @@
 
 ---
 
-## 🧑‍💻 Qui suis-je ?
+## 🧑‍💻 About Me
 
-Développeur passionné le jour, explorateur de mondes virtuels la nuit. Je construis des outils web et des scripts utilitaires, et je partage mes aventures gaming sur mon [blog](https://blog.worldofpixels.ovh/) et mes réseaux.
+Passionate developer by day, video game explorer by night.
+I build web apps and utility scripts, and share them through my [blog](https://blog.worldofpixels.ovh/) and my networks.
 
-- 🔧 **Dev frontend** — Angular, TypeScript, JavaScript
-- 🐍 **Scripting & automatisation** — Python, Bash, Go
+- 🔧 **Frontend Dev** — Angular, TypeScript, JavaScript
+- 🐍 **Scripting & Automation** — Python, Bash, Go
 - 🐳 **DevOps** — Docker, Netlify, GitHub Actions
-- 🎮 **Gamer** — Reviews, streaming, et exploration de nouveaux univers
-- ✍️ **Blogueur** — [EWA's blog](https://blog.worldofpixels.ovh/) propulsé par [Zola](https://www.getzola.org/)
+- 🎮 **Gamer** — Reviews, streaming, and exploring new worlds
+- ✍️ **Blogger** — [EWA's blog](https://blog.worldofpixels.ovh/) powered by [Zola](https://www.getzola.org/)
 
 ---
 
@@ -44,17 +45,17 @@ Développeur passionné le jour, explorateur de mondes virtuels la nuit. Je cons
 
 ---
 
-## 🚀 Projets
+## 🚀 Projects
 
-| Projet | Description | Stack | Statut |
-|--------|-------------|-------|--------|
-| [**ListGamez**](https://github.com/WindAflame/ListGamez) | Site de listing et partage de jeux en LAN — données JSON, déployé sur Netlify | Angular | ✅ Actif |
-| [**Matroska Series Companion**](https://github.com/WindAflame/matroska-series-companion) | Wrapper Python pour MKVToolNix — extraction et fusion de fichiers MKV | Python | ✅ Actif |
-| [**Portappify.it**](https://github.com/WindAflame/portappify.it) | Scripts pour porter des jeux vers le format PortableApps (USB key) | Bash | ✅ Actif |
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [**ListGamez**](https://github.com/WindAflame/ListGamez) | Website for sharing games — JSON data, deployed on Netlify | Angular | ✅ Active |
+| [**Matroska Series Companion**](https://github.com/WindAflame/matroska-series-companion) | Python wrapper for MKVToolNix — extract and merge MKV files | Python | ✅ Active |
+| [**Portappify.it**](https://github.com/WindAflame/portappify.it) | Scripts to port apps or games into PortableApps (USB key) | Bash | ✅ Active |
 
 ---
 
-## 📊 Stats GitHub
+## 📊 GitHub Stats
 
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://raw.githubusercontent.com/WindAflame/.github/output/streak.svg" alt="GitHub Streak" /></a>
