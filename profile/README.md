@@ -49,8 +49,9 @@ I build web apps and utility scripts, and share them through my [blog](https://b
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [**ListGamez**](https://github.com/WindAflame/ListGamez) | Website for sharing games — JSON data, deployed on Netlify | Angular | ✅ Active |
-| [**Matroska Series Companion**](https://github.com/WindAflame/matroska-series-companion) | Python wrapper for MKVToolNix — extract and merge MKV files | Python | ✅ Active |
+| [**Modular sharing website**](https://github.com/WindAflame/ListGamez) | Website for sharing some stuff — JSON data, deployed on Netlify | Angular | ⌛ Inactive |
+| [**Matroska Series Companion**](https://github.com/WindAflame/matroska-series-companion) | Python wrapper for MKVToolNix — extract and merge MKV files | Python | ⌛ Inactive |
+| [**Playnite Plugins**](https://github.com/WindAflame/playnite-retroarch-steam-romm-kit) | Playnite plugins for RetroArch (Steam) and RomM | Astro, PowerShell, Python | ✅ Active |
 | [**Portappify.it**](https://github.com/WindAflame/portappify.it) | Scripts to port apps or games into PortableApps (USB key) | Bash | ✅ Active |
 
 ---
